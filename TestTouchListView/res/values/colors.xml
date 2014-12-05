@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+     <color name="transparent_background">#50000000</color>
+     
+    <color name="white">#ffffffff</color>
+    
+    <color name="black">#7B7B7B</color>
+    <color name="gray">#ff454545</color>
+    <color name="red">#ffff0000</color>
+    <color name="blue">#66006fa5</color>
+    <color name="yellow">#fffff0ff</color>
+    <color name="tab_text_checked">#d6d6d6</color>
+    <color name="tab_text_default">#878787</color>
+    <color name="bocop_dialog_bg">#77000000</color>
+    
+     <color name="cardinfo">#75581E</color>
+     <color name="contractnewcard">#F9E3D2</color>
+     <color name="transparent">#00000000</color>
+     <color name="color_gray">#333333</color>
+     <color name="username">#84622c</color>
+
+    <!-- tongyapeng loc -->
+    <color name="fly_radio_group_down_out_color">#77eba261</color>
+    <color name="fly_radio_group_down_in_color">#f47604</color>
+    <color name="my_popwindow_bg">#F0ECE0</color>
+    <!-- tongyapeng -->
+
+	<!-- 更多 限额管理 -->
+	<color name="big_rect_upper">#fbfbfb</color>
+    <color name="big_rect_lower">#ececec</color>
+    <color name="big_rect_line">#b8b8b8</color>
+    <color name="small_rect_upper">#c1c1c1</color>
+    <color name="small_rect_lower">#d6d6d6</color>
+    <color name="ruler_line">#787878</color>
+    <color name="ruler_text">#848b97</color>
+    <color name="small_rect_selected_up">#FDB314</color>
+    <color name="small_rect_selected_down">#FB880A</color>
+    <color name="prompt_text_color">#ADABAB</color>
+    
+    <!-- 更多 中间横线 -->
+    <color name="more_lineup">#b8ad90</color>
+    <color name="more_linedown">#f3f0e8</color>
+    <!-- 更多 每行按下前后的背景 -->
+    <color name="more_up">#E9E3D3</color>
+    <color name="more_down">#DDD7C8</color>
+    <color name="more_about_right">#9c9c9c</color>
+    <color name="more_about_shadow">#ffffff</color>
+    
+    <!-- 交易记录中间横线-->
+    <color name="trade_lineup">#bfb59b</color>
+    <color name="trade_linedown">#f3f0e8</color>
+    <!-- 卡列表中间横线 -->
+    <color name="acc_lineup">#b38e57</color>
+    <color name="acc_linedown">#f7e1ac</color>
+    
+    <color name="acc_card_info">#75581e</color>
+    <color name="acc_card_info_cloud">#ffe9b3</color>
+    <color name="acc_card_info_selecter">#795D24</color>
+    <color name="acc_contract_new_card">#F9E3D2</color>
+    
+    <!-- 声波支付 -->
+    <color name="wavepay_gray">#6B6B6B</color>
+    <color name="wavepay_darkgray_light">#939393</color>
+    <color name="wavepay_gray_light">#C7C7C7</color>
+    <color name="wavepay_text_color">#76614C</color>
+    <color name="wavepay_text_color_light">#745F40</color>
+    <color name="wavepay_text_color_hint">#A2A2A2</color>
+    
+      <!-- QRCode -->
+     <color name="result_view">#b0000000</color>
+      <color name="viewfinder_mask">#60000000</color>
+      <color name="possible_result_points">#c0ffff00</color> 
+    
+    <!-- 首页 -->
+    <color name="first_item_down">#FFFBE5</color>
+    <color name="first_item_up">#F1EBDD</color>
+    
+    <!-- 登录、注册 -->
+    <color name="reg_text_color">#7C7C7C</color>
+    <color name="login_hint_color">#D6D6D6</color>
+    <color name="trans_card_lightshow">#167DFD</color>
+    
+    <!-- 输入框hint颜色 -->
+    <color name="et_hint">#CBCBCB</color>
+</resources>
